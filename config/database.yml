@@ -13,8 +13,8 @@ default: &default
   adapter: mysql2
   encoding: utf8
   pool: 5
-  username: root_rent
-  password: root_rent
+  username: room_rent
+  password: room_rent
   socket: /var/run/mysqld/mysqld.sock
 
 development:
